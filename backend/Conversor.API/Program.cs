@@ -5,6 +5,9 @@ var builder = WebApplication.CreateBuilder(args);
 //Permite qu a API entenda e responda com arquivos JSON
 builder.Services.AddOpenApi();
 
+//Registra o servicos de Controllers 
+builder.Services.AddControllers();
+
 
 //Configurando as repostas e envios da API
 builder.Services.AddCors(options =>

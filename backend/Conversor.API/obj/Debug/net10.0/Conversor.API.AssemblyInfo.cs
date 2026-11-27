@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conversor.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde1d2dd38d8cafc98a6defc7c2ec16d0a4f1ca3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61a30473e23f7a6bc2289504e8021497c681dc5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conversor.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conversor.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
