@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3idHI+sJkIw=",
+  "success": true,
+  "projectFilePath": "/mnt/monstrinho/programming/Conversor-de-unidades/backend/Conversor.API/Conversor.API.csproj",
+  "expectedPackageFiles": [
+    "/home/pablo/.nuget/packages/microsoft.aspnetcore.openapi/10.0.15/microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.openapi/2.13.0/microsoft.openapi.2.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
